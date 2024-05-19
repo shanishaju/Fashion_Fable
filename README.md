@@ -1,4 +1,4 @@
-# Fashion_Fable
+# ShopNest
 It's a product listing page for showcasing Fetch API integration.(Sample)
 
 
